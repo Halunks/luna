@@ -8,8 +8,8 @@
 # Purpose
 Project Luna is the result of a one week sprint of web development with three junior developers.<br>
 The web app's purpose is to provide a platform for uploading restaurants and reviews.<br>
-With features as registration, login, reviews and comments lets users connect to each other over food around the globe.
-In it's current state, Luna provides a solid starting point in terms of database implementation (Python, Django),
+With features as registration, login, reviews and comments luna lets users connect to each other over food around the globe.
+In it's current state, Luna provides a solid starting point in terms of database implementation (Python, Django REST API),
 DevOps (CI/CD Runner and Ubuntu server) as well as frontend pages (JavaScript ES6, React and Redux) for further development.
 
 # Setup Guide 
