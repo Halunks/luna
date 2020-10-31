@@ -19,8 +19,7 @@ DevOps (CI/CD Runner and Ubuntu server) as well as frontend pages (JavaScript ES
 1. Install node: https://nodejs.org/en/download/
 2. Update npm: <code>$ sudo npm install -g npm@latest</code>
 3. Install Docker: https://docs.docker.com/get-docker/
-4. Clone the repository: <code>$ git clone git@gitlab.propulsion-home.ch:full-stack/batch-13-aug-2020/group-projects/scorpio/project-luna.git</code>
-5. Install all dependencies: <code>$ cd frontend/ $ npm i</code> 
+4. Clone the repository: <code>$ git clone 
 6. Start the frontend React app: <code>$ cd frontend/ $ npm start</code>
 7. Test if the React app is running correctly by accessing "http://localhost:3000/"
 
