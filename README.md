@@ -3,7 +3,7 @@
 
 ![Animated](./frontend/src/assets/screenshots/pages_animated.gif "Search Page Animated")
 
-<img src="./frontend/src/assets/screenshots/mobile_animated.gif" width="360px" height="600px"> />
+<img src="./frontend/src/assets/screenshots/mobile_animated.gif" width="240px" height="400">
 
 # Purpose
 Project Luna is the result of a one week sprint of web development with three junior developers.<br>
