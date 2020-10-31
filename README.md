@@ -8,7 +8,7 @@
 # Purpose
 Project Luna is the result of a one week sprint of web development with three junior developers.<br>
 The web app's purpose is to provide a platform for uploading restaurants and reviews.<br>
-With features as registration, login, reviews and comments luna lets users connect to each other over food around the globe.
+With features as registration, login, reviews and comments luna lets users connect to each other over food around the globe.<br>
 In it's current state, Luna provides a solid starting point in terms of database implementation (Python, Django REST API),
 DevOps (CI/CD Runner and Ubuntu server) as well as frontend pages (JavaScript ES6, React and Redux) for further development.
 
@@ -19,7 +19,7 @@ DevOps (CI/CD Runner and Ubuntu server) as well as frontend pages (JavaScript ES
 1. Install node: https://nodejs.org/en/download/
 2. Update npm: <code>$ sudo npm install -g npm@latest</code>
 3. Install Docker: https://docs.docker.com/get-docker/
-4. Clone the repository: <code>$ git clone 
+4. Clone the repository: <code>$ git clone</code>
 6. Start the frontend React app: <code>$ cd frontend/ $ npm start</code>
 7. Test if the React app is running correctly by accessing "http://localhost:3000/"
 
