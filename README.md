@@ -1,4 +1,4 @@
-# Screenshots
+# Impressions
 ![Homepage](./frontend/src/assets/screenshots/page_home.png "Home Page")
 
 ![Animated](./frontend/src/assets/screenshots/pages_animated.gif "Search Page Animated")
